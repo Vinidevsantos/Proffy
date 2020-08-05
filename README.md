@@ -1,9 +1,8 @@
 <h2 align="center">
   <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blueviolet?style=for-the-badge" alt="Curso Next Leve Week #2" />
   <img src="https://img.shields.io/badge/web%3F-ok-blueviolet?style=for-the-badge" alt="Sistema web Ok" />
-  <img src="https://img.shields.io/badge/server%3F-No-blueviolet?style=for-the-badge" alt="Sevidor web Yes" />
-  <img src="https://img.shields.io/badge/app mobile%3F-No-blueviolet?style=for-the-badge" alt="Aplicativo mobile Yes" />
-  <img src="https://img.shields.io/github/license/vinidevsantos/proffy?color=blueviolet&style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/server%3F-Yes-blueviolet?style=for-the-badge" alt="Sevidor web Yes" />
+  <img src="https://img.shields.io/badge/app mobile%3F-Yes-blueviolet?style=for-the-badge" alt="Aplicativo mobile Yes" /
 </h2>
 
 <h1 align="center">
