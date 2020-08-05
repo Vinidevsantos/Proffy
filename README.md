@@ -1,13 +1,15 @@
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blueviolet?style=for-the-badge" alt="Nome e edição do evento" />
+  <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blueviolet?style=for-the-badge" alt="Curso Next Leve Week #2" />
   <img src="https://img.shields.io/badge/web%3F-ok-blueviolet?style=for-the-badge" alt="Sistema web Ok" />
-  <img src="https://img.shields.io/badge/server%3F-No-blueviolet?style=for-the-badge" alt="Sevidor web No" />
-  <img src="https://img.shields.io/badge/app mobile%3F-No-blueviolet?style=for-the-badge" alt="Aplicativo mobile No" />
-  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blueviolet&style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/server%3F-No-blueviolet?style=for-the-badge" alt="Sevidor web Yes" />
+  <img src="https://img.shields.io/badge/app mobile%3F-No-blueviolet?style=for-the-badge" alt="Aplicativo mobile Yes" />
+  <img src="https://img.shields.io/github/license/vinidevsantos/proffy?color=blueviolet&style=for-the-badge" alt="License" />
 </h2>
 
 <h1 align="center">
-  <img src="https://repository-images.githubusercontent.com/285049464/92458900-d744-11ea-8a78-36754300c647" alt="Logo da Proffy" />
+	<a href="https://proffy-mauve-omega.vercel.app/">
+  		<img src="https://repository-images.githubusercontent.com/285049464/92458900-d744-11ea-8a78-36754300c647" alt="Logo da Proffy" />
+	</a>
 </h1>
 
 ## ❔ Sobre o projeto
@@ -20,15 +22,9 @@ O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.
 
 <p align="center"><b>Interface Web para Desktop</b></p>
 <p align="center">
-  <img src="//////////IMGIMGIMGIMGIMG////////////" alt="Landing Page Proffy in Desktop" width="47%" />
-  <img src="//////////IMGIMGIMGIMGIMG////////////" alt="Study Page in Desktop" width="47%" />
+  <img src="https://repository-images.githubusercontent.com/285049464/92458900-d744-11ea-8a78-36754300c647" alt="Landing Page Proffy in Desktop" />
 </p>
 
-<p align="center"><b>Interface Web para Mobile</b></p>
-<p align="center">
-  <img src="//////////IMGIMGIMGIMGIMG////////////" alt="Landing Page Proffy in Mobile" width="25%" />
-  <img src="//////////IMGIMGIMGIMGIMG////////////" alt="Study Page in Mobile" width="25%" />
-</p>
 
 ## 🛠 Techs
 
