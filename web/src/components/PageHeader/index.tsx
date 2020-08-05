@@ -9,7 +9,7 @@ import './styles.css';
 interface PageHeaderProps {
     title: string;
     description?: string;
-}                 // nao obrigatoria por isso tem o ?
+}                 // nao obrigatoria por isso tem  ?
 
 const PageHeader: React.FC<PageHeaderProps> = (props) => {
   return (
