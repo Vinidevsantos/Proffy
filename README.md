@@ -53,7 +53,7 @@ Para instalar e startar a plataforma Proffy em seu ambiente, siga os passos abai
 
 Clone o repositório:
 ```
-git clone https://github.com/matheusfelipeog/proffy.git 
+git clone https://github.com/vinidevsantos/proffy.git 
 ```
 
 ### Start
